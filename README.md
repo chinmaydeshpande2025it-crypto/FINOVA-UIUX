@@ -36,14 +36,14 @@ This makes financial management easy, organized, and accessible.
 
 # Tools Used
    
-Figma – UI/UX design and prototyping
-Google Docs – Documentation
-GitHub – Version control (for wireframes/design files)
+*Figma* – UI/UX design and prototyping
+, *Google Docs* – Documentation
+, *GitHub* – Version control (for wireframes/design files)
 
 # Team
 
 Diksha Bhalerao   [ B25IT1078 ]
-Shivam Jogdand    [ B25IT1100 ]
-Sakshi Shirole    [ B25IT1123 ]
-Chinmay Deshpande [ B25IT1132 ]
-Atharv Gawas      [ B25IT1134 ]
+, Shivam Jogdand    [ B25IT1100 ]
+, Sakshi Shirole    [ B25IT1123 ]
+, Chinmay Deshpande [ B25IT1132 ]
+, Atharv Gawas      [ B25IT1134 ]
