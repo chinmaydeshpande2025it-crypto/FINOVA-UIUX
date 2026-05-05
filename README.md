@@ -7,6 +7,8 @@ HIGH-Fidelity Prototype : https://www.figma.com/design/zmPeeQOh9KzsMOgKEt0mPT/FI
 
 LOW-Fidelity Prototype  : https://www.figma.com/design/zmPeeQOh9KzsMOgKEt0mPT/FINOVA-APP?node-id=0-1&t=mb5AvRE61YVmtP3G-1
 
+*DISCLAIMER : START WITH FLOW 2*
+
 # Problem Statement
 
 Many individuals face difficulties in managing personal finances due to:
