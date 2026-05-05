@@ -2,7 +2,9 @@
  Finova is a user-friendly financial management tool designed to help users track income, expenses, and budgets. It offers features like dashboards, reminders, and reports. Built using Figma, it focuses on simple UI/UX design to make financial management easy and efficient.
 
 # Figma Prototype (High & Low Fidelity)
+
 HIGH-Fidelity Prototype : https://www.figma.com/design/zmPeeQOh9KzsMOgKEt0mPT/FINOVA-APP?node-id=0-1&t=mb5AvRE61YVmtP3G-1 
+
 LOW-Fidelity Prototype  : https://www.figma.com/design/zmPeeQOh9KzsMOgKEt0mPT/FINOVA-APP?node-id=0-1&t=mb5AvRE61YVmtP3G-1
 
 # Problem Statement
